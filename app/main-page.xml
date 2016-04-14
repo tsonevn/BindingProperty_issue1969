@@ -1,0 +1,6 @@
+<Page loaded="loaded">
+  <StackLayout>
+    <Label style="font-size:24px;" text="{{ text }}" color="{{ history ? 'red' : 'blue' }}" />
+    <Button  text="Tap to change color" tap="Tap"/>
+  </StackLayout>
+</Page>
