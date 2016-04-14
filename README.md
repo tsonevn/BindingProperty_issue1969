@@ -1,0 +1,1 @@
+# BindingProperty_issue1969
